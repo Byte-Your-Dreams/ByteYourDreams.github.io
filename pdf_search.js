@@ -1,5 +1,5 @@
 
-const GITHUB_TOKEN = "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"
+const GITHUB_TOKEN = "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"
 
 // Funzione per ottenere i PDF dalla cartella principale
 async function caricaCandidatura() {
